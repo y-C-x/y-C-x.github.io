@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://y-c-x.github.io</id>
     <title>玩物志</title>
-    <updated>2020-08-10T15:15:49.488Z</updated>
+    <updated>2020-08-17T03:35:23.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://y-c-x.github.io"/>
     <link rel="self" href="https://y-c-x.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://y-c-x.github.io/images/avatar.png</logo>
     <icon>https://y-c-x.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 玩物志</rights>
+    <entry>
+        <title type="html"><![CDATA[寂静岭]]></title>
+        <id>https://y-c-x.github.io/post/ji-jing-ling/</id>
+        <link href="https://y-c-x.github.io/post/ji-jing-ling/">
+        </link>
+        <updated>2020-08-16T15:19:06.000Z</updated>
+        <content type="html"><![CDATA[<p>2020.8.16 庚子 数年 甲申月 壬辰日 辛亥时 忌出行<br>
+从潘梓涵家回来后，同天宇一道前往老地方拍摄星空。抵达之时，天空澈亮，田野一望无际。四十分后，水雾云集，如波涛包围而至。手机光所及之处，都看不真切。不远处有一哨塔，在夜色下显得更为碜人。我直呼天宇名字却无所应答。走近之时发现其人以身处水汽之中。忽然塔下有不明动物鸣叫，其声似野鸭，极其规律。天宇直吼一嗓子，这斯却毫无退走之意。此时四下无人，只有空旷的田地和近全身的玉米杆，这叫声更突的令人战栗。我当下拉起天宇便向车子跑去。离开之时，车光照去，路已经看不真切了。连在灯下缠绕的蚊虫此也已稀稀疏疏。我便催得天宇速速赶路，到家二人方才松得一口气。现今回想起来，也是十分后怕。当时场景与寂静岭别无二致，可知真无弄虚作假。出门应看黄历。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jack Daniel's No.7]]></title>
         <id>https://y-c-x.github.io/post/jack-daniels/</id>
